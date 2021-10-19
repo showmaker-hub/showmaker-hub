@@ -1,13 +1,14 @@
-## Hey 👋, This is Chuyi
+## Hey 👋, This is Ruan
 
-[![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/showmaker-hub/)](https://www.github.com/showmaker-hub/)
+[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=showmaker-hub alt=showmaker-hub/> </p>
-<a href="https://github.com/showmaker-hub">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=showmaker-hub &show_icons=true&include_all_commits=true" />
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/showmaker-hub">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showmaker-hub&layout=compact" />
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
 </a>
 
 Languages and Tools:
@@ -18,7 +19,7 @@ Languages and Tools:
 
 
 <!--
-**showmaker-hub/showmaker-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
