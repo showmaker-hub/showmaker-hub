@@ -1,6 +1,6 @@
 ## Hey 👋, This is 初意小团团
 
-[![Mail Badge](https://img.shields.io/badge/-chuyi6662021@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chuyi6662021@163.com)](mailto:chuyi6662021@163.com) [!
+[![Mail Badge](https://img.shields.io/badge/-chuyi6662021@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chuyi6662021@163.com)](mailto:chuyi6662021@163.com) 
 [![hexo-blog](https://img.shields.io/badge/hexo_theme-yilia_plus-red.svg "hexo-theme-yilia-plus")](https://github.com/showmaker-hub/hexo-blog "hexo-blog")
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=showmaker-hub alt=showmaker-hub/> </p>
