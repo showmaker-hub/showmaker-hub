@@ -1,6 +1,6 @@
-## Hey 👋, This is Ruan
+## Hey 👋, This is 初意小团团
 
-[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+[![Mail Badge](https://img.shields.io/badge/-chuyi6662021@163.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chuyi6662021@163.com)](mailto:chuyi6662021@163.com) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/showmaker-hub/)](https://www.github.com/showmaker-hub/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=showmaker-hub alt=showmaker-hub/> </p>
 
